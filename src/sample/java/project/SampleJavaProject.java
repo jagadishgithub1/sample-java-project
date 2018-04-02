@@ -35,7 +35,7 @@ public class SampleJavaProject implements Runnable {
     private boolean help = false;
 
     /**
-     * Print the "Hello, world!" string.
+     * Print the "This is my first Maven sample project!" string.
      * @param args application input arguments
      */
     public static void main(final String[] args) {
